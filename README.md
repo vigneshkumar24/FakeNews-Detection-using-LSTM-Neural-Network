@@ -1,0 +1,2 @@
+# FakeNews-Detection-using-LSTM-Neural-Network
+Technological advancements have drastically increased the amount of internet and social media users. An average user receives information from platforms like Facebook, Twitter, Reddit and Instagram. There is a high chance that the information is bogus and is specifically crafted to spread wrong information. Goal : To classify the Fake information using ML.
